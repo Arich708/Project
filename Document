@@ -5,3 +5,7 @@ Service class
 Main class
 DBconnect
 DBconfig
+Employee Model class
+EmployeeDAO class
+EmployeeService class
+payroll system
