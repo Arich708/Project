@@ -9,3 +9,7 @@ Employee Model class
 EmployeeDAO class
 EmployeeService class
 payroll system
+Student model class
+StudentDAO class
+StudentService class
+
